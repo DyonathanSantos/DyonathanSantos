@@ -1,25 +1,40 @@
-## Bem-vindo(a) ao meu perfil😁
+# 👋 Olá, eu sou o Dyonathan Santos!
 
- <div>
-   <a href="https://github.com/DyonathanSantos">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DyonathanSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyonathanSantos&layout=compact&langs_count=6&theme=tokyonight"/>
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** e futuro **Machine Learning Engineer**.  
+💻 Apaixonado por **Python, Ciência de Dados e Inteligência Artificial**.  
+🚀 Atualmente focado em construir projetos de **Machine Learning** para o portfólio e compartilhar minha evolução.
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
-<div> 
- 
- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:dyonathanssantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/dyonathan-santos-78981125a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/DyonathanSantos/DyonathanSantos/blob/output/github-contribution-grid-snake.svg)
+---
 
-</div>
+## 📚 O que estou estudando atualmente
+- Python avançado para ciência de dados  
+- Pandas, Numpy e Matplotlib  
+- Machine Learning com Scikit-learn  
+- Bancos de dados para análise e ML
+- Modelos de Machine Learning
+
+---
+
+## ⚡ Tecnologias
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📌 Projetos em destaque
+- 🏠 [Analisador de Vendas](https://github.com/DyonathanSantos/Analisador_Vendas) → análise exploratória de vendas com Python e Pandas.  
+- 👨‍💻 [Census - Naive Bayes](https://github.com/DyonathanSantos/Census-Naive-Bayes) → modelo de classificação usando Naive Bayes com 78% de acurácia.  
+
+---
+
+## 📫 Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dyonathan-santos)  
+📧 Email: **dyonathanssantos@gmail.com**  
+
+---
+
+✨ Obrigado por visitar meu perfil! Sempre em busca de novos aprendizados e desafios na área de **Machine Learning** 🚀
